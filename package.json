@@ -83,7 +83,7 @@
   "dependencies": {
     "@types/cheerio": "^0.22.18",
     "@types/qs": "^6.9.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "js-yaml": "^3.14.0",
     "qs": "^6.9.4"
